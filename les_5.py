@@ -10,6 +10,7 @@ def print_name(a):
     name = a
     print(f'Hello, {name}')
 
+
 a = ['alex', 'dima', 'maks','oleg', 'misha']
 
 for i in a:
